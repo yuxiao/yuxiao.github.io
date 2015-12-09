@@ -4,8 +4,8 @@ permalink: /:categories/:year/:month/:day/:title
 encoding : utf-8
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: rouge
-markdown:    kramdown
+highlighter: pygments
+markdown:    rdiscount
 kramdown:
   input: GFM
 
