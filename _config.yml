@@ -5,7 +5,7 @@ encoding : utf-8
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
-markdown:    rdiscount
+markdown:    Redcarpet
 kramdown:
   input: GFM
 
