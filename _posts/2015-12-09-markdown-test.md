@@ -34,6 +34,14 @@ void main(void)
 }
 ```
 
+{% highlight c %}
+#include <stdio.h>
+void main(void)
+{
+	printf("Hello World");
+}
+{% endhighlight %}
+
 # 表格
 
 |编号 | 内容 | 备注|
