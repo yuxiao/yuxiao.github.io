@@ -5,7 +5,7 @@ encoding : utf-8
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
-markdown:    kramdown
+# markdown:    kramdown
 kramdown:
   input: GFM
   auto_ids:      true
@@ -16,7 +16,7 @@ kramdown:
   # smart_quotes:  lsquo,rsquo,ldquo,rdquo
   # use_coderay:   true
 
-# markdown: redcarpet
+markdown: redcarpet
 redcarpet:
   extensions:
     - fenced_code_blocks
