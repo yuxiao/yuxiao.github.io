@@ -16,7 +16,7 @@ kramdown:
   # smart_quotes:  lsquo,rsquo,ldquo,rdquo
   # use_coderay:   true
 
-markdown: redcarpet
+# markdown: redcarpet
 redcarpet:
   extensions:
     - fenced_code_blocks
